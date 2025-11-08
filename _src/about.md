@@ -3,5 +3,5 @@ layout: layout.njk
 title: About
 ---
 
-## Welcome
+## *About us*
 
