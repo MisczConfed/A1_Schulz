@@ -7,9 +7,6 @@ nav {
   background-color: #333333;
 }
 
-ul li a.active {
-  background-color: #04AA6D;
-}
 
 ul li {
   float: left;
