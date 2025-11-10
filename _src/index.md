@@ -8,7 +8,7 @@ pageType: home
 
 
 ---
-# *Welcome*
+# Welcome
 ---
 loremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 loremloremloremloremloremloremloremloremloremloremloremloremloremlorem
