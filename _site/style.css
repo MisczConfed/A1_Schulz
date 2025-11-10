@@ -56,11 +56,16 @@ body {
     background-color: rgb(245, 218, 169);
 }
 
-.hero {
-      background-image: url(/_src/images/bread.jpg);
+.hero-image {
+      background-image: url(images/bread.jpg);
 
-
-    
+  /* Position and center the image to scale nicely on all screens */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+}
+.hero-text {
       h1 {
         text-align: center;
         font-family: "Cherry Bomb One", system-ui;
