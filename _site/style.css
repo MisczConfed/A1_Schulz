@@ -9,28 +9,6 @@ nav {
 }
 
 
-    h1 {
-        text-align: center;
-            font-family: "Cherry Bomb One", system-ui;
-    font-weight: 400;
-    font-style: normal;
-          
-    }
-    h2 {
-          font-family: "Sour Gummy", sans-serif;
-          font-optical-sizing: auto;
-          font-weight: 400;
-          font-style: normal;
-          font-variation-settings:
-          "width" 100;
-    }
-    p {
-        margin: 2vw 3vw;
-        text-align: center;
-         font-family: "Jua", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-    }
 
 
 
@@ -56,23 +34,18 @@ body {
     background-color: rgb(245, 218, 169);
 }
 
-.hero-image {
-      background-image: url(images/bread.jpg);
-
-  /* Position and center the image to scale nicely on all screens */
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      position: relative;
+.hero {
+      background-color: pink;
+      border: 6px solid;
+      border-radius: 15px;
+      border-color: plum;
 }
-.hero-text {
+
       h1 {
         text-align: center;
         font-family: "Cherry Bomb One", system-ui;
         font-weight: 400;
-        font-style: normal;
-          
-    }
+        font-style: normal;   
 }
 
 main {
