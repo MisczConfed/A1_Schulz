@@ -5,7 +5,15 @@ nav {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: pink;
+  border: 6px solid;
+  border-radius: 15px;
+  border-color: white;
+  text-align: center;
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 500;
+  font-style: normal;
+
 }
 
 
@@ -25,7 +33,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: #81bae0;
 }
 }
 
@@ -36,20 +44,24 @@ body {
 
 .hero {
       background-color: pink;
-      border: 6px dashed;
+      border: 6px solid;
       border-radius: 15px;
-      border-color: plum;
+      border-color: white;
+      margin-top: 15px;
 }
 
       h1 {
         text-align: center;
         font-family: "Cherry Bomb One", system-ui;
         font-weight: 400;
-        font-style: normal;   
+        font-style: normal;
+        color: white;
+
 }
 
 main {
     background-color: beige;
+    border-radius: 15px;
     
      h1 {
         text-align: center;
@@ -65,11 +77,13 @@ main {
           font-style: normal;
           font-variation-settings:
           "width" 100;
+          padding: 2vw;
     }
-    p{
-        margin: 2vw 3vw;
-        text-align: center;
-         font-family: "Jua", sans-serif;
+    p {
+        padding-left: 2vw;
+        padding-right: 2vw;
+        padding-bottom: 2vw;
+        font-family: "Jua", sans-serif;
         font-weight: 400;
         font-style: normal;
     }
