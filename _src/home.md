@@ -5,10 +5,8 @@ title: Home
 
 
 
+# out an image here
 
----
-# Welcome
----
 loremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 loremloremloremloremloremloremloremloremloremloremloremloremloremlorem
 loremloremloremloremloremloremloremloremloremloremloremloremloremlorem
