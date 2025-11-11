@@ -36,7 +36,7 @@ body {
 
 .hero {
       background-color: pink;
-      border: 6px solid;
+      border: 6px dashed;
       border-radius: 15px;
       border-color: plum;
 }
