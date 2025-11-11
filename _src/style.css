@@ -89,6 +89,13 @@ main {
         font-style: normal;
     }
     
+    .gal1-img {
+    flex-basis: 40%;
+    flex-shrink: 0;
+    img {
+        max-width: 100%;
+    }
+}
     
 }
 
