@@ -3,24 +3,27 @@ layout: layout.njk
 title: About
 ---
 
+<div class="main-home">
 
-## Who are we?
-here at blah blah we do blah blah
+# What is *Bake My Day*?
 
-## What do we do?
+<p> We are a small locally owned bakery in Thunder Bay, Ontario!
+ Our specialty is Cakes, Cupcakes, Muffins, and other baked desserts! </p>
 
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblah
+# When is the bakery open?
 
-## Who are we?
-here at blah blah we do blah blah
+<p> We are open Monday - Friday 10am - 6pm </p>
 
-## What do we do?
+# Can I order online or on the phone?
 
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblahblah
-blahblah
+<p> Yes! You can call us during hours of operation and place an order, or leave a message and we will get back to you when were open </p>
 
+# Does this bakery take custom orders?
+
+<p> Yes! Call us for quotes on custom orders!
+
+# Does your bakery have dietary or allergy friendly options?
+
+<p> Yes! We offer a wide variety of dietary options such as, gluten free, vegan, keto friendly, allergen safe (no nuts, tree nuts, peanuts), and dairy free. (If there are any options you would like please contact us and we can discuss possible accomodation, thank you!)
+
+</div>

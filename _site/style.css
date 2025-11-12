@@ -13,6 +13,8 @@ nav {
   font-family: "Cherry Bomb One", system-ui;
   font-weight: 500;
   font-style: normal;
+  font-size: 1.75em;
+
 
 }
 
@@ -33,7 +35,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #81bae0;
+  background-color: #f1abe8;
 }
 }
 
@@ -63,6 +65,12 @@ body {
 main {
     background-color: beige;
     border-radius: 15px;
+    border: 6px solid;
+    border-color: white;
+    margin-top: 1vw;
+    img {
+      border-radius: 15px;
+    }
     
      h1 {
         text-align: center;
@@ -88,15 +96,98 @@ main {
         font-weight: 400;
         font-style: normal;
     }
+}
+  
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vw;
+    padding-top: 2vw;
     
-    .gal1-img {
-    flex-basis: 40%;
+
+
+    
+}
+.shop-text {
+    flex-basis: 50%;
+    flex-shrink: 0;
+    text-align: center;
+
+    h2 {
+          background-color: pink;
+    padding: 5px;
+    border-radius: 15px;
+    margin-right: 2.1vw;
+    margin-left: 2.1vw;
+    border: white solid 5px;
+    }
+
+}
+.shop-img {
+    flex-basis: 30%;
+    flex-shrink: 0;
+    img {
+        max-width: 100%;
+        border: white solid 5px;
+    }
+    
+}
+
+.gal-img {
+    flex-basis: 30%;
     flex-shrink: 0;
     img {
         max-width: 100%;
     }
-}
     
 }
+
+.contact {
+  text-align: center;
+}
+
+.conbtn {
+      background-color: pink;
+      border: 6px solid;
+      border-radius: 15px;
+      border-color: white;
+      margin: 15px;
+      flex: 30%;
+      display: flex;
+      
+
+      a {
+      text-align: center;
+      font-family: "Cherry Bomb One", system-ui;
+      font-weight: 400;
+      font-style: normal;
+      color: white;
+      margin-left: 30%;
+      
+      }
+      
+      
+}
+
+.main-home {
+  text-align: center;
+
+  h1 {
+   color: pink;
+
+  }
+  p {
+        font-family: "Jua", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+}
+
+.logo {
+  img {
+        max-width: 100%;
+    }
+}
+
 
 
