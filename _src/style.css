@@ -63,7 +63,7 @@ body {
 }
 
 main {
-    background-color: beige;
+    background-color: #f5f5dc;
     border-radius: 15px;
     border: 6px solid;
     border-color: white;
@@ -173,7 +173,7 @@ main {
   text-align: center;
 
   h1 {
-   color: pink;
+   color: #ffc0cb;
 
   }
   p {
